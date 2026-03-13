@@ -141,20 +141,36 @@ These measures enable deeper insights into sales performance, customer activity,
 
 ---
 
+# 🚀 How to Use This Project
+
+1️⃣ Clone this repository
+
+git clone https://github.com/jasmeet0494/Retail-Sales---Operations-Analytics-Dashboard.git
+
+2️⃣ Open the Power BI file
+
+Modern_Analytics_Dashboard.pbip
+
+3️⃣ Explore the dashboard using filters
+
+---
+
 ## 📂Repository Structure
 
 ```
 Retail-Sales---Operations-Analytics-Dashboard/
 │
-├── datasets/                                        # Raw dataset used for the project 
+├── datasets/                                             # Raw dataset used for the project 
 │
-├── docs/                                            # Project documentation and architecture details
-│      ├── dashboard                                 # file shows the project's architecture
-│                ├── modern_Analytics_Dashboard      # file for the data flow diagram
-│      ├── screenshots                               # file for data models (star schema)
-│                ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
-│
-├── README.md                                        # Project overview and instructions
+├── docs/                                                 # Project Files
+│      ├── dashboard                                      # folder for dashboard file
+│                ├── Modern_Analytics_Dashboard.pbip      # Power Bi file
+│      ├── screenshots                                    # Screenshots folder
+│                ├── Strategic_dashboard_1.png            # Strategic Dashboard 1 screenshot
+│                ├── Strategic_dashboard_2.png            # Strategic Dashboard 2 screenshot
+│                ├── Operational_dashboard_1.png          # Operational Dashboard 1 screenshot
+│                ├── operational_dashboard_2.png          # Operational Dashboard 2 screenshot
+├── README.md                                             # Project overview and instructions
 
 ```
 
