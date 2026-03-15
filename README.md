@@ -1,5 +1,5 @@
 # Retail Sales & Operations Analytics Dashboard (Power BI)
-This project presents an interactive Power BI analytics solution designed to analyze retail sales performance, customer purchasing behavior, and inventory operations.
+This project presents an interactive Power BI analytics solution designed to analyze retail sales performance, customer purchasing behavior, and inventory operations for a fitness apparel organization.
 
 ---
 
